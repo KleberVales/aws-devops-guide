@@ -26,6 +26,8 @@
 
 ## Infrastructure as Code (IaC)
 
+| Nº | Pages |
+|----|--------|
 | 16 | [Terraform: Infrastructure as Code]() |
 | 17 | [AWS CloudFormation]() |
 
