@@ -25,3 +25,9 @@
 | 03 | [AWS Environments (CodeDeploy)]() |
 
 ## Infrastructure as Code (IaC)
+
+| 16 | [Terraform: Infrastructure as Code]() |
+| 17 | []() |
+
+---
+
