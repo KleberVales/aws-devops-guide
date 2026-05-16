@@ -33,3 +33,10 @@
 
 ---
 
+## Security and Observability
+
+| Nº | Pages |
+|----|--------|
+| 18 | [DevSecOps]() |
+| 19 | [Observability Services]() |
+
